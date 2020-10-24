@@ -2,7 +2,7 @@ CC=gcc
 CXX=g++
 RM=rm -f
 
-TARGET=../hora.c
+TARGET=../hora
 
 
 INCLUDES=-I./include -I/opt/local/include
